@@ -1,30 +1,21 @@
-# Unit 18 PWA Homework:  Budget Trackers
 
-* Using a previously created Budget Tracker application, a user is able to update information while online/offline. Updated application has offline access and functionality.
+## PWA Homework:  Budget Trackers
+BUDGET TRACKERS
+This application allows the user to track their budget online and offline
 
-* The user is able to add expenses and deposits to their budget with or without a connection. When entering transactions offline, the total will be populated when brought back online.
+# USER STORY
+I want to be able to ttrack my budget, in a smart app who let me track it online and offline
 
-Offline Functionality:
+# TECH USED 
+Service-Worker, Manifest, Bootstrap, HTML, CSS, JS, mongoose, mongoDB, body-parser and morgan.
 
-  * Enter deposits and expenses offline
+# GETTING STARTED
+Clone the repository
+Run npm i to install all the packages. 
+Run in the terminal node server.js
+The app will be running in http://localhost:3000
+ 
 
-When brought back online:
 
-  * Offline entries added to tracker.
-
-## Business Context
-
-Giving users a fast and easy way to track their money is important, but allowing them to access that information anytime is even more important. Having offline functionality is paramount to our applications success.
-
-## Deployed Application
-
-("https://calm-oasis-32152.herokuapp.com/
-")
-
-* Offline image:
-
-![Offline](https://github.com/Jupton2020/PWA-Budget-Tracker/blob/master/public/assets/img/Screen%20Shot%202020-02-05%20at%208.48.23%20PM.png)
-
-* Online image:
-
-![Offline](https://github.com/Jupton2020/PWA-Budget-Tracker/blob/master/public/assets/img/Screen%20Shot%202020-02-05%20at%208.50.55%20PM.png)
+# AUTHORS
+- TOMAS UTRERAS
