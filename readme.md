@@ -16,6 +16,5 @@ Run in the terminal node server.js
 The app will be running in http://localhost:3000
  
 
-
 # AUTHORS
 - TOMAS UTRERAS
